@@ -1,5 +1,6 @@
-# High Power BLDC Motor Driver with Field-Oriented Control (FOC)
+![49a2ab7d-ae84-4829-adb7-912b41497d58](https://github.com/user-attachments/assets/b32cce3a-04cc-4a00-bf56-90189f9075c1)
 
+# High Power BLDC Motor Driver with Field-Oriented Control (FOC)
 This repository contains an ongoing project for a high-power BLDC motor driver, capable of handling up to 92V. The motor driver implements the **Field-Oriented Control (FOC)** commutation method for enhanced efficiency. Additionally, it integrates **Maximum Torque Per Amp (MTPA)** control to optimize performance.
 
 ## Key Features:
